@@ -1,0 +1,16 @@
+0 _background_	[0 0 0]
+1 dry_blacktop	[128   0   0]  沥青
+# 2 dry_concrete	[  0 128   0]  水泥
+# 3 dry_dirt	[128 128   0]  泥土
+# 4 dry_grass	[  0   0 128]  草
+# 5 dry_gravel	[128   0 128]  砂石
+# 6 wet_blacktop	[  0 128 128]
+# 7 wet_concrete	[128 128 128]
+# 8 wet_dirt	[64  0  0]
+# 9 wet_grass	[192   0   0]
+# 10 wet_gravel	[ 64 128   0]
+# 11 water_blacktop	[192 128   0]
+# 12 water_concrete	[ 64   0 128]
+# 13 water_dirt	[192   0 128]
+# 14 water_grass	[ 64 128 128]
+# 15 water_gravel	[192 128 128]
