@@ -6,7 +6,7 @@ A muitithread tool for transform the gray segmentation label into color label. T
 
 This TXT file contains the color dictiionary of gray label. There are 4 numbers in each row, label, color_R, color_G, color_B. These numbers will be detected by main.py
 
-##run
+## run
 
 To run this tool, just modify the run.sh like this:
 ```bash
